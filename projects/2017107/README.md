@@ -55,6 +55,7 @@ Artix Linux
 [Βιβλιογραφία](https://en.wikipedia.org/wiki/Artix_Linux)
 
 Άσκηση γραμμής εντολών
+
 Στην άσκηση γραμμής εντολών που μπορείτε να δείτε στο asciinema χρησιμοποιείται το py-spy με σκοπό να εξαχθεί ένα flamegraph σε μορφή svg από δύο προγραμμάτα python που αποτελούν ταξινομήσης(quicksort, bubblesort)
 
 [![asciicast](https://asciinema.org/a/NRtMxfHk5IVpyEyHXcaBz0wOK.svg)](https://asciinema.org/a/NRtMxfHk5IVpyEyHXcaBz0wOK)
