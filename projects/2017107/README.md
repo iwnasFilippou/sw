@@ -42,3 +42,7 @@ Debian GNU/ Linux
 neofetch
 
 [![asciicast](https://asciinema.org/a/tBnJioka4tdJOiMwBtk67qTcu.svg)](https://asciinema.org/a/tBnJioka4tdJOiMwBtk67qTcu)
+
+## Εβδομάδα 3
+### Γραμμή εντολών (no systemd)
+
