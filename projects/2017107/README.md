@@ -75,3 +75,4 @@ Artix Linux
 
 [Netlify](https://tranquil-douhua-53faf3.netlify.app/)
 
+![clang](https://github.com/iwnasFilippou/sw/assets/80246653/0d60ed99-12c5-4e66-a388-08114baea5c0)
