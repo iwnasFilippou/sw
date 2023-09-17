@@ -63,3 +63,15 @@ Artix Linux
 ## Εβδομάδα 4
 ### Κατασκευή Βιβλίου Α2
 
+## Εβδομάδα 5
+### Συμμετοχικό Περιεχόμενο Α1 + Α2 
+
+Οι προσθήκες που έγιναν στο site για συμμετοχικό περιεχόμενο είναι η γλώσσες προγραμματισμού C και C ++ που δημιουργήθηκαν στο ΑΤ & Τ Bell Labs.
+
+| _gallery      | images | _timeline | _slides |
+| ----------- | ----------- | ----------- | ----------- |
+|[clang.md](https://github.com/iwnasFilippou/_gallery/blob/96b238753a97e5c89f89abc8d935fa5652d67599/clang.md)      | [clang.png](https://github.com/iwnasFilippou/images/blob/ac7ac6d43e58756440f53ae90fe584458772a0aa/clang-thumb.png) [clang-thumb.png](https://github.com/iwnasFilippou/images/blob/ac7ac6d43e58756440f53ae90fe584458772a0aa/clang-thumb.png)       |[programming.md](https://github.com/iwnasFilippou/site/blob/master/_timeline/programming.md) |[programming.md](https://github.com/iwnasFilippou/site/blob/master/_slides/programming.md) |
+| [cpplang.md](https://github.com/iwnasFilippou/_gallery/blob/96b238753a97e5c89f89abc8d935fa5652d67599/cpplang.md)   | [cpplang.png](https://github.com/iwnasFilippou/images/blob/ac7ac6d43e58756440f53ae90fe584458772a0aa/cpplang.png) [cpplang-thumb.png](https://github.com/iwnasFilippou/images/blob/ac7ac6d43e58756440f53ae90fe584458772a0aa/cpplang-thumb.png)        | [programming.md](https://github.com/iwnasFilippou/site/blob/master/_timeline/programming.md) |[programming.md](https://github.com/iwnasFilippou/site/blob/master/_slides/programming.md) |
+
+[Netlify](https://tranquil-douhua-53faf3.netlify.app/)
+
