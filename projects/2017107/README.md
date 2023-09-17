@@ -81,3 +81,7 @@ Artix Linux
 ### Άσκηση Γραμμής Εντολών (Custom Static Blog Generator)
 
 Για την έκτη εβδομάδα θα χρησιμοποιήσα το bashblog για να δημιουργήσω ένα blog, αποτελούμενο από ένα post με τους λόγους τους οποίους διάλεξα τα Artix Linux σαν systemd-less distro.
+
+![swblog](https://github.com/iwnasFilippou/sw/assets/80246653/c1ba2f51-85b6-4a73-81fb-ae440ff754bf)
+
+[Netlify](https://statuesque-jelly-84256a.netlify.app/)
